@@ -8,11 +8,10 @@
 <a href="https://arxiv.org/abs/2502.02464" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 <a href="https://huggingface.co/datasets/abdoelsayed/reranking-datasets" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace%20Datasets-27b3b4.svg></a>
 <a href="https://huggingface.co/datasets/abdoelsayed/reranking-datasets-light" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace%20Datasets%20light-orange.svg"></a>
-<a href="https://github.com/RUC-NLPIR/FlashRAG/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Python-3.10_3.11-blue"></a>
 <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/static/v1?label=License&message=Apache-2.0&color=red"></a>
-<!-- <a href="https://pepy.tech/projects/rankify"><img src="https://static.pepy.tech/badge/rankify" alt="PyPI Downloads"></a>
-<a href="https://github.com/DataScienceUIBK/rankify/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/DataScienceUIBK/rankify.svg?label=Version&color=orange"></a>    -->
+ <a href="https://pepy.tech/projects/rankify"><img src="https://static.pepy.tech/badge/rankify" alt="PyPI Downloads"></a>
+<a href="https://github.com/DataScienceUIBK/rankify/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/DataScienceUIBK/rankify.svg?label=Version&color=orange"></a> <!--   -->
 </div>
 
 
